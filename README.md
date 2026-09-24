@@ -39,17 +39,9 @@ Arsitektur solusi dalam tugas ini dibangun melalui 6 tahapan komputasi utama:
 
 Ikuti langkah langkah berikut untuk menyiapkan lingkungan kerja dan menjalankan notebook:
 
-### 1. Kloning atau Buka Direktori Proyek
+### 1. Set up environment
 
-Buka terminal PowerShell atau Command Prompt pada folder proyek ini:
-
-```bash
-cd "d:\10. KULIAH COMPSCIE SEMESTER 3\AI\Tugas DBSCAN"
-```
-
-### 2. Membuat dan Mengaktifkan Lingkungan Virtual
-
-Disarankan menggunakan lingkungan virtual Python agar pustaka terisolasi secara rapi:
+Disarankan menggunakan environment virtual Python agar library terisolasi secara rapi:
 
 Untuk pengguna Windows PowerShell:
 ```powershell
@@ -63,9 +55,9 @@ python -m venv .venv
 .\.venv\Scripts\activate.bat
 ```
 
-### 3. Instalasi Library 
+### 2. Instalasi Library 
 
-Pasang seluruh pustaka yang diperlukan menggunakan perintah pip berikut:
+Pasang seluruh library yang diperlukan menggunakan perintah pip berikut:
 
 ```bash
 pip install ucimlrepo scikit_learn pandas numpy matplotlib
@@ -78,7 +70,7 @@ Daftar pustaka utama:
 * `scikit_learn` : Pustaka pembantu untuk StandardScaler, PCA, KMeans, dan metrik evaluasi
 * `ucimlrepo` : Pengambilan data otomatis dari UCI Machine Learning Repository
 
-### 4. Menjalankan Jupyter Notebook
+### 3. Menjalankan Jupyter Notebook
 
 Jalankan server notebook lokal melalui perintah:
 
