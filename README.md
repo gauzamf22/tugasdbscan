@@ -78,6 +78,4 @@ Jalankan server notebook lokal melalui perintah:
 jupyter notebook
 ```
 
-Buka berkas `Tugas_Density_Based_Clustering_dengan_DBSCAN.ipynb` lalu jalankan seluruh sel secara berurutan dari atas ke bawah.
-
 
