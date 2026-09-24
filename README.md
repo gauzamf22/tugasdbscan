@@ -9,7 +9,6 @@
 * Fakultas : Matematika dan Ilmu Pengetahuan Alam
 * Universitas : Universitas Gadjah Mada
 
-***
 
 ## Arsitektur Singkat dan Alur Kerja
 
@@ -34,7 +33,7 @@ Arsitektur solusi dalam tugas ini dibangun melalui 6 tahapan komputasi utama:
 6. **Perbandingan Komparatif dengan KMeans**:
    Membandingkan hasil DBSCAN dengan algoritma partisional KMeans (k = 2) dalam hal keseimbangan ukuran anggota, interpretabilitas bisnis terhadap kanal Horeca dan Retail, serta evaluasi kesesuaian algoritma pada dataset Wholesale Customers.
 
-***
+
 
 ## Panduan Instalasi dan Penggunaan
 
@@ -88,7 +87,5 @@ jupyter notebook
 ```
 
 Buka berkas `Tugas_Density_Based_Clustering_dengan_DBSCAN.ipynb` lalu jalankan seluruh sel secara berurutan dari atas ke bawah.
-
-***
 
 
