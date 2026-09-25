@@ -70,7 +70,7 @@ Daftar pustaka utama:
 * `scikit_learn` : Pustaka pembantu untuk StandardScaler, PCA, KMeans, dan metrik evaluasi
 * `ucimlrepo` : Pengambilan data otomatis dari UCI Machine Learning Repository
 
-### 3. Menjalankan Jupyter Notebook
+### 3. Jalankan Jupyter Notebook
 
 Jalankan server notebook lokal melalui perintah:
 
