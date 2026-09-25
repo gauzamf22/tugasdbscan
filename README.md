@@ -6,8 +6,8 @@
 * Kelas : KOM A
 * NIM : 25/555851/PA/23315
 * Program Studi : Ilmu Komputer
-* Fakultas : Matematika dan Ilmu Pengetahuan Alam
-* Universitas : Universitas Gadjah Mada
+
+Notebook : https://colab.research.google.com/github/gauzamf22/tugasdbscan/blob/main/Tugas_Density_Based_Clustering_dengan_DBSCAN.ipynb
 
 
 ## Arsitektur Singkat dan Alur Kerja
